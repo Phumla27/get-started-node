@@ -1,0 +1,12 @@
+{
+ "services": {
+   "cloudantNoSQLDB": [
+     {
+       "credentials": {
+         "url":"https://cloud.ibm.com/services/cloudantnosqldb/fb11e538-9200-45d3-be67-5b6fd873be6d?paneId=credentials&env_id=us-south"
+       },
+       "label": "cloudantNoSQLDB"
+     }
+   ]
+ }
+}
